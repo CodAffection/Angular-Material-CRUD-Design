@@ -24,7 +24,7 @@ $ ng serve
 " target="_blank"><img src="http://img.youtube.com/vi/ZGWOc37kQkw/0.jpg" 
 alt="Video Tutorial for Angular Material Form Design" width="500" height="400" border="10" /></a>
 
-# Complete Angular Material Tutorial
+## Complete Angular Material Tutorial
 1. Form Design - https://goo.gl/XmR6Li [_this one_]
 2. Firebase CRUD - https://goo.gl/3VQn29
 3. Angular Material Data Table - https://goo.gl/5h59y5
