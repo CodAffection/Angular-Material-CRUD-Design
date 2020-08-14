@@ -25,11 +25,11 @@ $ ng serve
 alt="Video Tutorial for Angular Material Form Design" width="500" height="400" border="10" /></a>
 
 # Complete Angular Material Tutorial
-1. https://goo.gl/XmR6Li - Form Design.[_this one_]
-2. https://goo.gl/3VQn29 - Firebase CRUD.
-3. https://goo.gl/5h59y5 - Angular Material Data Table.
-4. https://goo.gl/NNf5sp - Material Popup.
-5. https://goo.gl/pr8rs6 - Material Confirm Dialog.
+1. Form Design - https://goo.gl/XmR6Li [_this one_]
+2. Firebase CRUD - https://goo.gl/3VQn29
+3. Angular Material Data Table - https://goo.gl/5h59y5
+4. Material Popup - https://goo.gl/NNf5sp
+5. Material Confirm Dialog - https://goo.gl/pr8rs6
 
 
 | :bar_chart:               |  List of Tutorials   |   | :moneybag:           | Support Us                           |
